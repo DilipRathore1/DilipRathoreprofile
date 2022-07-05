@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://DilipRathore1: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@github.com/DilipRathore1/DilipRathoreprofile.git
+git push -u origin main
